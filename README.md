@@ -1,3 +1,3 @@
 # miniature-giggle
-This is my first git resposistory
+This is my first git resposistory.
 Aythor-Niharika Tripathi
